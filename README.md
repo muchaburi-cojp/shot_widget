@@ -9,4 +9,5 @@
 
 # 注意事項
 
-画像保存に今回image_gallery_saverを使用したがgradleのversionが8未満でないと使用できなさそうだった。
+画像保存に今回image_gallery_saverを使用したがgradleのversionが8未満でないと使用できなさそうだった。<br>
+ScreenShotのchildには、backgroundColor系が入っていないと画像の背景色が黒くなる。
